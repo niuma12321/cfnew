@@ -1,6 +1,2 @@
 compatibility_date = "2026-01-20"
-name = "nas-worker"
-main = "index.js"
 
-[assets]
-directory = "./"
